@@ -1,2 +1,28 @@
 # Football-Prediction
-Created a football prediction model using Random Forest Classifier and predicting the wins and losses/draw of each team in each matchday based on the Premier League data from 2020-2022 data
+In this project, we'll predict the winner of football matches in the English Premier League (EPL).
+
+Project Steps
+
+Scrape match data using pandas.
+Clean the data and get it ready for machine learning using pandas.
+Make predictions about who will win a match using scikit-learn.
+Measure error and improve our predictions.
+
+Code
+You can find the code for this project here.
+
+File overview:
+
+Football Predictions.ipynb - a Jupyter notebook that makes predictions.
+
+Local Setup
+Installation
+To follow this project, please install the following locally:
+
+JupyerLab
+Python 3.8+
+Python packages
+pandas
+requests
+scikit-learn
+
