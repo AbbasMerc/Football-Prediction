@@ -13,7 +13,7 @@ You can find the code for this project here.
 
 File overview:
 
-Football Predictions.ipynb - a Jupyter notebook that makes predictions.
+Football_Predictions.ipynb - a Jupyter notebook that makes predictions.
 
 Local Setup
 Installation
